@@ -32,32 +32,21 @@ namespace Basic_Expense_Tracker
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string description = txtDescription.Text.Trim();
-            string amountText = txtAmount.Text.Trim();
-            DateTime date = dtpDate.Value;
-
-            if (string.IsNullOrEmpty(description))
-            {
-                MessageBox.Show("Description cannot be empty.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-
-            if (!decimal.TryParse(amountText, out decimal amount) || amount <= 0)
-            {
-                MessageBox.Show("Amount must be a positive number.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-
-            string expenseEntry = $"{date.ToShortDateString()} - {description} - {amount:C}";
-            lstExpenses.Items.Add(expenseEntry);
-
             txtDescription.Clear();
             txtAmount.Clear();
+            dtpDate.Value = DateTime.Today;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            if (lstExpenses.SelectedIndex != -1)
+            {
+                lstExpenses.Items.RemoveAt(lstExpenses.SelectedIndex);
+            }
+            else
+            {
+                MessageBox.Show("Please select an expense to delete.", "No Selection", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
     }
 }

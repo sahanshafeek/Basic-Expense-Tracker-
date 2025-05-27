@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\UCJ JAFFNA\\Desktop\\CA 2\\Basic Expense Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|c:\\users\\ucj jaffna\\desktop\\ca 2\\basic expense tracker\\basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|solutionrelative:basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|C:\\Users\\UCJ JAFFNA\\Desktop\\CA 2\\Basic Expense Tracker\\basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|solutionrelative:basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|c:\\users\\ucj jaffna\\desktop\\ca 2\\basic expense tracker\\basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|solutionrelative:basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|c:\\users\\ucj jaffna\\desktop\\ca 2\\basic expense tracker\\basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB33BDDC-1365-4C26-A659-3105E58666B0}|Basic Expense Tracker\\Basic Expense Tracker.csproj|solutionrelative:basic expense tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\UCJ JAFFNA\\Desktop\\CA 2\\Basic Expense Tracker\\Basic Expense Tracker\\Form1.cs",
               "RelativeDocumentMoniker": "Basic Expense Tracker\\Form1.cs",
               "ToolTip": "C:\\Users\\UCJ JAFFNA\\Desktop\\CA 2\\Basic Expense Tracker\\Basic Expense Tracker\\Form1.cs",
               "RelativeToolTip": "Basic Expense Tracker\\Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T06:09:29.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\UCJ JAFFNA\\Desktop\\CA 2\\Basic Expense Tracker\\Basic Expense Tracker\\Form1.cs",
               "RelativeDocumentMoniker": "Basic Expense Tracker\\Form1.cs",
